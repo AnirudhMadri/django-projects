@@ -1,2 +1,3 @@
 Welcome to something.txt!
 This is a dummy file!
+New dummy line
